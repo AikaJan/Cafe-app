@@ -1,0 +1,17 @@
+.input-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: lightgray;
+    color: black;
+    width: 500px;
+
+}
+
+
+input {
+    margin: 10px;
+    width: 90%;
+    font-style: italic;
+}
